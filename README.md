@@ -1,8 +1,8 @@
 # Evaluating Blur Detection Methods for Factory SLAM Applications
-## Taggart Bonham
-## Corporate R&D - Magna International
 ## Technical White Paper
-## August 2017
+Taggart Bonham
+Corporate R&D - Magna International
+August 2017
 
 ### Abstract
 Motion blur, one of the biggest problems for feature-based
