@@ -1,7 +1,9 @@
 # Evaluating Blur Detection Methods for Factory SLAM Applications
 ## Technical White Paper
 Taggart Bonham
+
 Corporate R&D - Magna International
+
 August 2017
 
 ### Abstract
